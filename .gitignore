@@ -1,0 +1,35 @@
+# ROS2
+install/
+build/
+log/
+*.pyc
+__pycache__/
+
+# Python
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test images
+test_images/
+*.jpg
+*.png
+!docs/images/*.png
+
+# Logs
+*.log
