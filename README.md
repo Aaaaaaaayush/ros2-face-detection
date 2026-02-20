@@ -187,11 +187,19 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
+## 👤 Authors
 
-**Advaith**
+**Aayush Bhanushali**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [Aayush Bhanushali](https://github.com/Aaaaaaaayush)
+
+**Amarpreet Singh Chaman**
+
+- GitHub: [Amarpreet Singh Chaman](https://github.com/amarpreetc-hue)
+
+**Advaith Ajithkumar**
+
+- GitHub: [Advaith Ajithkumar](https://github.com/AdvaithAjithkumar)
 
 ## 🙏 Acknowledgments
 
