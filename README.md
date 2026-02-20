@@ -207,10 +207,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - OpenCV Contributors
 - Haar Cascade pre-trained models
 
-## 📧 Contact
-
-For questions or feedback, please open an issue or contact me at advaithajithkumar@gmail.com
-
----
-
-⭐ Star this repo if you find it helpful!
